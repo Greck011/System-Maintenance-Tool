@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1764909052 source:c:\users\greiv\onedrive\documentos\cpp\system-maintenance-tool\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<iomanip>
+	<windows.h>
+	<fstream>
+	<pdh.h>
+	<pdhmsg.h>
+
+1764968735 source:c:\users\greiv\cppprojet\system-maintenance-tool\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<iomanip>
+	<windows.h>
+	<fstream>
+	<pdh.h>
+	<pdhmsg.h>
+	<wininet.h>
+
+1765592185 source:c:\users\greiv\onedrive\documentos\cppproject\system-maintenance-tool\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<iomanip>
+	<windows.h>
+	<fstream>
+	<pdh.h>
+	<pdhmsg.h>
+	<wininet.h>
+
+1765991529 source:c:\users\greiv\onedrive\documentos\cppproject\system-maintenance-tool\app.rc
+
