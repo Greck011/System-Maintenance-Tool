@@ -1,16 +1,3 @@
-#include <iostream>
-#include <cstdlib>
-#include <string>
-#include <iomanip>
-#include <windows.h>
-#include <fstream>
-#include <pdh.h>
-#include <pdhmsg.h>
-#include <wininet.h>
-
-#pragma comment(lib, "wininet.lib")
-#pragma comment(lib, "pdh.lib")
-
 /*
  * System Maintenance Tool
  * Copyright (C) 2025 Greivin
@@ -28,6 +15,19 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
+
+#include <iostream>
+#include <cstdlib>
+#include <string>
+#include <iomanip>
+#include <windows.h>
+#include <fstream>
+#include <pdh.h>
+#include <pdhmsg.h>
+#include <wininet.h>
+
+#pragma comment(lib, "wininet.lib")
+#pragma comment(lib, "pdh.lib")
 
 using namespace std;
 
