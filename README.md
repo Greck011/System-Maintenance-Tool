@@ -1,2 +1,2 @@
 # System-Maintenance-Tool
-App para mantenimiento en Windows 10/11
+App de mantenimiento para sistemas de Windows 10/11
