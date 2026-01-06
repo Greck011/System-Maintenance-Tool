@@ -1,6 +1,6 @@
 /*
  * System Maintenance Tool
- * Copyright (C) 2025 Greivin
+ * Copyright (C) 2026 Greivin
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -239,7 +239,7 @@ void testDownloadSpeed()
 
     HINTERNET hUrl = InternetOpenUrl(
                          hInternet,
-                         "http://speedtest.tele2.net/100MB.zip",
+                         "http://speedtest.tele2.net/10MB.zip",
                          NULL, 0,
                          INTERNET_FLAG_RELOAD,
                          0
@@ -322,6 +322,7 @@ void mostrarMenu()
 int main()
 {
     system("Title System Maintenance Tool - GreCK01");
+    setlocale(LC_ALL, ""); // Para los acentos.
 
     while (true)
     {
